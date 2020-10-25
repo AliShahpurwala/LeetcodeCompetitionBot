@@ -9,3 +9,7 @@ The Bot sends a POST to Azure's Computer Vision API which has Optical Character 
 
 ### Google Sheets API
 The Mac CS Society was keeping score of the participants with the help of a google sheet. Using the Google Sheet API, the bot is able to automatically update the sheet by processing the response given by the Azure resource.
+
+
+#### Notice
+All API keys have been removed from the script for security purposes.
